@@ -1,0 +1,196 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1924668553438354
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4010907327650506}
+  - component: {fileID: 95956986041130310}
+  - component: {fileID: 114786366424401526}
+  - component: {fileID: 114001049157503020}
+  m_Layer: 0
+  m_Name: Killer4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4010907327650506
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1924668553438354}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &95956986041130310
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1924668553438354}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: 42a1e92cbd250434ba1ac46d4d6b4277, type: 3}
+  m_Controller: {fileID: 9100000, guid: 8cbad5cce9f75384dbcebd1f156acafd, type: 2}
+  m_CullingMode: 1
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: '
+
+    Transform ''Character1_LeftFoot'' has been deleted
+
+    Transform
+    ''Character1_LeftLeg'' has been deleted
+
+    Transform ''Character1_LeftUpLeg''
+    has been deleted
+
+    Transform ''Character1_RightFoot'' has been deleted
+
+    Transform
+    ''Character1_RightLeg'' has been deleted
+
+    Transform ''Character1_RightUpLeg''
+    has been deleted
+
+    Transform ''Character1_LeftHandIndex3'' has been deleted
+
+    Transform
+    ''Character1_LeftHandIndex2'' has been deleted
+
+    Transform ''Character1_LeftHandIndex1''
+    has been deleted
+
+    Transform ''Character1_LeftHandMiddle3'' has been deleted
+
+    Transform
+    ''Character1_LeftHandMiddle2'' has been deleted
+
+    Transform ''Character1_LeftHandMiddle1''
+    has been deleted
+
+    Transform ''Character1_LeftHandPinky3'' has been deleted
+
+    Transform
+    ''Character1_LeftHandPinky2'' has been deleted
+
+    Transform ''Character1_LeftHandPinky1''
+    has been deleted
+
+    Transform ''Character1_LeftHandRing3'' has been deleted
+
+    Transform
+    ''Character1_LeftHandRing2'' has been deleted
+
+    Transform ''Character1_LeftHandRing1''
+    has been deleted
+
+    Transform ''Character1_LeftHand'' has been deleted
+
+    Transform
+    ''Character1_LeftForeArm'' has been deleted
+
+    Transform ''Character1_LeftArm''
+    has been deleted
+
+    Transform ''Character1_LeftShoulder'' has been deleted
+
+    Transform
+    ''Character1_Head'' has been deleted
+
+    Transform ''Character1_Neck'' has been
+    deleted
+
+    Transform ''Character1_RightHandIndex3'' has been deleted
+
+    Transform
+    ''Character1_RightHandIndex2'' has been deleted
+
+    Transform ''Character1_RightHandIndex1''
+    has been deleted
+
+    Transform ''Character1_RightHandMiddle3'' has been deleted
+
+    Transform
+    ''Character1_RightHandMiddle2'' has been deleted
+
+    Transform ''Character1_RightHandMiddle1''
+    has been deleted
+
+    Transform ''Character1_RightHandPinky3'' has been deleted
+
+    Transform
+    ''Character1_RightHandPinky2'' has been deleted
+
+    Transform ''Character1_RightHandPinky1''
+    has been deleted
+
+    Transform ''Character1_RightHandRing3'' has been deleted
+
+    Transform
+    ''Character1_RightHandRing2'' has been deleted
+
+    Transform ''Character1_RightHandRing1''
+    has been deleted
+
+    Transform ''Character1_RightHand'' has been deleted
+
+    Transform
+    ''Character1_RightForeArm'' has been deleted
+
+    Transform ''Character1_RightArm''
+    has been deleted
+
+    Transform ''Character1_RightShoulder'' has been deleted
+
+    Transform
+    ''Character1_Spine1'' has been deleted
+
+    Transform ''Character1_Spine'' has
+    been deleted
+
+    Transform ''Character1_Hips'' has been deleted
+
+    Transform
+    ''Character1_Reference'' has been deleted'
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &114786366424401526
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1924668553438354}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25a5a62f8ef418c4da59192ea3e187f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114001049157503020
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1924668553438354}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99a2b75b2cc6a304d8e7afd96cd512db, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 0.4
