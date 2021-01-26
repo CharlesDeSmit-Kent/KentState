@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Touch Me</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="defaultLeftText">x Coord</string>
+    <string name="defaultRightText">y Coord</string>
+    <string name="labelRed">Red</string>
+    <string name="labelGreen">Green</string>
+</resources>
