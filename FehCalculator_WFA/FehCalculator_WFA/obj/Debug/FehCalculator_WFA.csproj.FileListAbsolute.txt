@@ -1,0 +1,10 @@
+C:\Users\Charlie\source\repos\FehCalculator_WFA\FehCalculator_WFA\bin\Debug\FehCalculator_WFA.exe.config
+C:\Users\Charlie\source\repos\FehCalculator_WFA\FehCalculator_WFA\bin\Debug\FehCalculator_WFA.exe
+C:\Users\Charlie\source\repos\FehCalculator_WFA\FehCalculator_WFA\bin\Debug\FehCalculator_WFA.pdb
+C:\Users\Charlie\source\repos\FehCalculator_WFA\FehCalculator_WFA\obj\Debug\FehCalculator_WFA.csprojAssemblyReference.cache
+C:\Users\Charlie\source\repos\FehCalculator_WFA\FehCalculator_WFA\obj\Debug\FehCalculator_WFA.Form1.resources
+C:\Users\Charlie\source\repos\FehCalculator_WFA\FehCalculator_WFA\obj\Debug\FehCalculator_WFA.Properties.Resources.resources
+C:\Users\Charlie\source\repos\FehCalculator_WFA\FehCalculator_WFA\obj\Debug\FehCalculator_WFA.csproj.GenerateResource.cache
+C:\Users\Charlie\source\repos\FehCalculator_WFA\FehCalculator_WFA\obj\Debug\FehCalculator_WFA.csproj.CoreCompileInputs.cache
+C:\Users\Charlie\source\repos\FehCalculator_WFA\FehCalculator_WFA\obj\Debug\FehCalculator_WFA.exe
+C:\Users\Charlie\source\repos\FehCalculator_WFA\FehCalculator_WFA\obj\Debug\FehCalculator_WFA.pdb
